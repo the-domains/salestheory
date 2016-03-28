@@ -3,28 +3,28 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_The beginning of the trail"
-datePublished: '2016-03-28T23:35:31.833Z'
-dateModified: '2016-03-28T23:33:02.931Z'
+datePublished: '2016-03-28T23:41:58.899Z'
+dateModified: '2016-03-28T23:40:44.258Z'
 title: "\_ \_ \_ \_ \_ Breadcrumbs:"
 author: []
+sourcePath: _posts/2016-03-28-breadcrumbs.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-28-breadcrumbs.md
-published: true
 url: breadcrumbs/index.html
 _type: Article
 
 ---
 # Breadcrumbs:
 
-**The beginning of the trail**
+The beginning of the trail
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20fe103e-1ebd-4152-b52c-73312f162196.jpg)
 
 It has been a while for us here at SalesTheory, talking about Breadcrumbs, but even longer for us since we first started implementing the idea. You see, each of us here at SalesTheory come from a diverse background of Sales, Marketing, and Engineering. We have each grown in the same ways you probably have and as our paths met we shared our stories about our individual backgrounds, our challenges, and our visions of helping others achieve their goals in our respective fields.
