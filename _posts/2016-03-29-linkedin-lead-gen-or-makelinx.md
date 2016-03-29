@@ -16,8 +16,8 @@ keywords:
   - automated
   - day
 description: MakeLinx automatically gets your LinkedIn profile in front of your sales prospects. Try it today with a 14 day free trial.
-datePublished: '2016-03-29T21:29:14.068Z'
-dateModified: '2016-03-29T21:21:33.064Z'
+datePublished: '2016-03-29T21:31:46.637Z'
+dateModified: '2016-03-29T21:31:23.959Z'
 author: []
 related: []
 app_links: []
