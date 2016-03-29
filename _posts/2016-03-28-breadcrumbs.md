@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The beginning of the trail
-datePublished: '2016-03-29T21:44:54.054Z'
-dateModified: '2016-03-29T21:21:59.274Z'
+datePublished: '2016-03-29T22:12:42.819Z'
+dateModified: '2016-03-29T21:45:04.156Z'
 title: "\_ \_ \_ \_ \_ Breadcrumbs:"
 author: []
 sourcePath: _posts/2016-03-28-breadcrumbs.md
