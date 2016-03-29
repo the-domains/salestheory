@@ -16,8 +16,8 @@ keywords:
   - uncovering
   - emotions
 description: 'Although they are a strange phenomena, there are some serious reasons why they are a Closer without the typical Closer persona. We have this inner perception of what a salesman looks, acts and talks like. Often times, that perception is wrong.'
-datePublished: '2016-03-29T21:31:37.677Z'
-dateModified: '2016-03-29T21:21:09.381Z'
+datePublished: '2016-03-29T21:44:22.174Z'
+dateModified: '2016-03-29T21:31:47.266Z'
 author: []
 related:
   - score: 0.6829978824
