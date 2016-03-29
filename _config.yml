@@ -1,5 +1,8 @@
+name: SalesTheory
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.66911
 title: Practing Sales
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.8093448
-  brandStrength: 0.9607948
-  lightness: 0.7556391
   brandColors:
     - '#ffffff'
     - '#ff0000'
     - '#00ffff'
     - '#ff8300'
     - '#00a3e7'
-  rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: SalesTheory
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.66911
-layout_spectrum: 1
+  brandStrength: 0.75
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
