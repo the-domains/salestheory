@@ -34,8 +34,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.quotafactory.com/you-need-to-simplify-your-sales-development-introductions/?utm_campaign=Guest%20Post%20LI%20Post&utm_content=31830212&utm_medium=social&utm_source=linkedin'
 title: 'You Need to Simplify Your Sales Development Introductions | QuotaFactory'
-datePublished: '2016-03-29T21:19:16.681Z'
-dateModified: '2016-03-29T21:18:34.926Z'
+datePublished: '2016-03-29T21:24:03.085Z'
+dateModified: '2016-03-29T21:18:28.814Z'
 sourcePath: _posts/2016-03-29-you-need-to-simplify-your-sales-development-introductions-or.md
 published: true
 inFeed: true
