@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_The beginning of the trail"
-datePublished: '2016-03-29T18:25:51.654Z'
-dateModified: '2016-03-29T18:25:42.870Z'
+datePublished: '2016-03-29T18:28:38.777Z'
+dateModified: '2016-03-29T18:28:20.755Z'
 title: "\_ \_ \_ \_ \_ Breadcrumbs:"
 author: []
 sourcePath: _posts/2016-03-28-breadcrumbs.md
@@ -22,9 +22,7 @@ url: breadcrumbs/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5aa1edad-936b-4fcb-8572-e14c75f0e5c1.jpg)
-
-# Breadcrumbs:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2c1a561-11bc-4d01-bd80-439725c2c759.jpg)
 
 The beginning of the trail
 
