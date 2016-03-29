@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.makelinx.com'
-  name: Makelinx
-  favicon: 'http://www.makelinx.com/wp-content/themes/PandoraBox/favicon.ico'
-  domain: www.makelinx.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - makelinx
   - linkedin
@@ -18,17 +16,21 @@ keywords:
   - automated
   - day
 description: MakeLinx automatically gets your LinkedIn profile in front of your sales prospects. Try it today with a 14 day free trial.
-inLanguage: en
+datePublished: '2016-03-29T21:29:14.068Z'
+dateModified: '2016-03-29T21:21:33.064Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.makelinx.com/'
 title: 'LinkedIn Lead Gen | MakeLinx'
-datePublished: '2016-03-29T21:20:08.337Z'
-dateModified: '2016-03-29T21:19:06.577Z'
 sourcePath: _posts/2016-03-29-linkedin-lead-gen-or-makelinx.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Makelinx
+  domain: www.makelinx.com
+  url: 'http://www.makelinx.com'
+  favicon: 'http://www.makelinx.com/wp-content/themes/PandoraBox/favicon.ico'
+url: linkedin-lead-gen-or-makelinx/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
