@@ -16,8 +16,8 @@ keywords:
   - introductions
   - care
 description: "I got on some list recently somehow and am now getting a bunch of calls from sales development reps who all work at a certain type of company selling the same type of service. It's not the calls that are bothering me, I completely get the game and know what happen when you get on a lists."
-datePublished: '2016-03-29T21:44:38.351Z'
-dateModified: '2016-03-29T21:31:40.540Z'
+datePublished: '2016-03-30T20:11:20.360Z'
+dateModified: '2016-03-29T21:44:47.776Z'
 author:
   - name: John Barrows
     url: 'http://www.quotafactory.com/author/john-barrows/'
