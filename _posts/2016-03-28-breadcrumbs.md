@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-30T12:53:34.732Z'
+datePublished: '2016-08-30T13:00:05.010Z'
+sourcePath: _posts/2016-03-28-breadcrumbs.md
 isBasedOnUrl: null
 author: []
 via: {}
-dateModified: '2016-08-30T12:53:34.412Z'
+dateModified: '2016-08-30T13:00:04.609Z'
 title: ''
 id: db8abcc5-1c7e-46b2-9417-7eeacbe811e9
 publisher: {}
 description: The beginning of the trail
 starred: true
-sourcePath: _posts/2016-03-28-breadcrumbs.md
 inFeed: true
 hasPage: false
 inNav: false
